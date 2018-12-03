@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543871908 source:/home/yousef/Desktop/yousef/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543869288 source:/home/yousef/Desktop/yousef/2.c
+	<stdio.h>
+	<stdlib.h>
+
+1543870102 source:/home/yousef/Desktop/yousef/q2.c
+	<stdio.h>
+	<stdlib.h>
+

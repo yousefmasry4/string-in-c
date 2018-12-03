@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543873382 source:/home/yousef/Desktop/yousef/q3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
